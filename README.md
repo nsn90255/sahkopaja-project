@@ -4,5 +4,7 @@
 Wanted :
 - T9 dialing A-Z
 - 43 GPIO for keys
-- Display
+- 2'' Display
 - USB-C
+- internal battery
+- stm32u5
