@@ -613,6 +613,14 @@
     [
       "f2ec7380-d5e2-4be5-b548-cc5c4c4a2ed6",
       "Root"
+    ],
+    [
+      "d9b0d79e-964a-4d8a-8814-905153add156",
+      "Keyboard"
+    ],
+    [
+      "049e6dee-5a43-43c3-99b3-3e7069f433f8",
+      "PSU"
     ]
   ],
   "text_variables": {}
